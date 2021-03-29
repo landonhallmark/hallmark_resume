@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Landon Hallmark's Resume
 ---
-# Brigham Young
+# Landon Hallmark
 The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 <div id="webaddress">
@@ -16,14 +16,10 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`Expected 2021`
 __Brigham Young University - Idaho__, Rexburg, ID
 
+- Major: Economics
 - 4.0 Major GPA
 
 
