@@ -6,10 +6,9 @@ title: Landon Hallmark's Resume
 
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+<a href="landonhallmark@gmail.com">landonhallmark@gmail.com</a>
+|  <a href="www.linkedin.com/in/landonhallmark">LinkedIn</a>
+| <a href="https://github.com/landonhallmark">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
@@ -20,61 +19,46 @@ title: Landon Hallmark's Resume
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - Major: Economics
-- 4.0 Major GPA
+- Minor: Data Science
+- 3.99  GPA
 
 
 ## Related Experience
 
-### Internships
+### Full-Time Volunteer Representative
+`March 2016 - March 2018`
+__The Church of Jesus Christ of Latter-day Saints__, Sacramento, CA
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+- Worked as a self-motivated volunteer for 90 hours a week 
+- Spoke to and taught large groups and small groups multiple times a week
+- Managed and led groups of up to 25 other volunteers
+- Liason between senior management and the other volunteers
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+### Youth Counselor
 
-### Data Science Lead
+`May 2019 - August 2019`
+__Especially For Youth__, Provo, UT
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+- Organized and managed groups of up to 34 teenagers for 15+ hours a day
+- Communicated expectations to participants and helped them achieve them 
+- Resolved conflicts among participants and guided them to help improve
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+### Sales Representative
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+`June 2018 – September 2018`
+__Phenom Pest Protection__, Columbia, MD
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+- Worked 10-12 hours a day to contact people door to door to sell the product
+- Learned to overcome rejections and be persistent
+- Generated $47,000 of revenue for the company
 
 
-## Service and Work History
+## Skills/Awards
 
-`2025-2027`
-__Math Tutor__, LDSBC
+__Eagle Scout__, 2015
 
-
-`2023-2025`
-__Service Missionary__, South Africa
+__Proficient in Programing Lanugages__
+(R, Python, Excel)
 
 
 
