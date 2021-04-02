@@ -15,32 +15,19 @@ title: Landon Hallmark's Resume
 
 ## Education
 
-be specific about what month your graduating
-`Expected 2021`
+`Expected December 2021`
 __Brigham Young University - Idaho__
  Rexburg, ID
 
 - Major: Economics
 - Minor: Data Science
-Dont bring up your GPA unless they ask
 
 __Proficient in Programing Lanugages__
-SQL IS ANOTHER LANGUAGE
 (R, Python, SQL, Excel)
-
-ALWAYS PUT YOUR MOST RELEVANT WORK EXPERIENCE TOWARDS THE TOP
 
 `June 2018 – September 2018`
 __Phenom Pest Protection__
 Columbia, MD
-
-Use this as a template
-
-- Purpose (blah blah blah)
-
-- Tools used (blah blah blah)
-
-- Benefits/Results/Deliverables (blah blah blah)
 
 - Worked 10-12 hours a day to contact people door to door to sell the product
 - Learned to overcome rejections and be persistent
